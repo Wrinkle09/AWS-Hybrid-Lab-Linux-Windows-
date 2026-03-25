@@ -50,7 +50,6 @@ El objetivo ha sido practicar administración de sistemas, redes, seguridad y co
 ### 4. Seguridad en Linux
 
 #### UFW
-```bash
 ufw allow OpenSSH
 ufw allow 'Nginx Full'
 ufw enable
