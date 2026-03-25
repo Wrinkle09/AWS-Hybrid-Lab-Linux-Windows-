@@ -55,13 +55,15 @@ ufw allow OpenSSH
 ufw allow 'Nginx Full'
 ufw enable
 
-Hardening SSH
+
+#### Hardening SSH
 Desactivado login root
 Deshabilitada autenticación por contraseña
 
 Archivo modificado: /etc/ssh/sshd_config
 
-Fail2ban
+
+#### Fail2ban
 Jail de SSH configurado
 Revisión de estado con:
 fail2ban-client status
