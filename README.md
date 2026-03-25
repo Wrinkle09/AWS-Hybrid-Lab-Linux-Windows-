@@ -24,7 +24,7 @@ El objetivo ha sido practicar **administración de sistemas, redes, seguridad** 
 - Creación de la **VPC desde cero**.  
 - **Subred pública** configurada.  
 - **Internet Gateway** asociado a la VPC.  
-- Ruta `0.0.0.0/0` configurada hacia el IGW.  
+- Ruta `0.0.0.0/0` configurada hacia el Internet Gateway.  
 - Diagnóstico de conectividad inicial (sin Internet por falta de IGW/rutas).  
 - Problemas solucionados ajustando routing y subredes.  
 
