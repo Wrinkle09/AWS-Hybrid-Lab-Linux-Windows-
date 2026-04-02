@@ -184,3 +184,8 @@ tail -n 20 /var/log/ufw.log
 - **Firewall** y **Fail2ban** implementados.  
 - Comunicación **Linux ↔ Windows** estable.  
 - Entorno listo para **pruebas adicionales** (AD, DNS, IIS, etc.).
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
